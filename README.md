@@ -6,11 +6,12 @@
 
 ## 📖 About me
 
-- 🔭 I’m currently working as QA Automation Engineer using Python and Selenium WebDriver and I love it!
+- 🔭 I’m working as Software QA engineer and have experience in both manual and automation testing and I love it!
 
 - 🌱 Passionate about learning new technologies and staying up-to-date with the latest trends in QA automation.
 
 - 🤝 Mobile automation is my new journey, and I'm looking for experienced guides to help me navigate its twists and turns. Your input would be most welcome.
+
 - 📫 More responsive than Siri on a good day. Hit me up anytime! **daria.olssonqa@gmail.com**
 
 
